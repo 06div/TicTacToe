@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+
+    <string name="home_title">TIC TAC TOE</string>
+    <string name="play_button">PLAY</string>
+
+    <string name="submit_button">Submit Names</string>
+    <string name="PlayerSetupTitle">Enter Your Name</string>
+    <string name="Label1">Player 1</string>
+    <string name="Label2">Player 2</string>
+    <string name="NameHint">Enter Your Name</string>
+
+    <string name="PlayAgainButton">Play Again</string>
+    <string name="BackToHome">Home</string>
+</resources>
