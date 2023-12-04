@@ -4,6 +4,7 @@ which is played between two persons for entertainment purpose. As for this app p
 When a player win the game a winning line will be draw as the indication of completion or putting their symbole in strainght line or diagonal line before the opponent.
 
 Below are the images of the app - 
+
 ![image](https://github.com/06div/TicTacToe/assets/138322370/9849e8da-719b-4f0c-8831-198e86a79f88)
 ![image](https://github.com/06div/TicTacToe/assets/138322370/ba29ed10-30e9-4576-b604-5a4722c35169)
 ![image](https://github.com/06div/TicTacToe/assets/138322370/b671538a-e889-4587-a33e-686d3197e32f)
